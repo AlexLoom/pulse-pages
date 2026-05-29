@@ -1,6 +1,6 @@
 # pulse-pages
 
-Public-facing pages for [Pulse](https://github.com/AlexLoom/pulse) (privacy policy and support).
+Public-facing pages for **All-in-One Finance: Pulse** (privacy policy and support).
 
 - [Privacy Policy](https://alexloom.github.io/pulse-pages/privacy.html)
 - [Support](https://alexloom.github.io/pulse-pages/support.html)
