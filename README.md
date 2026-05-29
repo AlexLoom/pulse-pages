@@ -1,4 +1,4 @@
-# pulse-pages
+# Privacy & Support
 
 Public-facing pages for **All-in-One Finance: Pulse** (privacy policy and support).
 
